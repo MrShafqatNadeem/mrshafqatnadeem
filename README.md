@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
+
 **MrShafqatNadeem/mrshafqatnadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Girl in a jacket" width="100" height="100">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
