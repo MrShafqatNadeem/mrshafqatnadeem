@@ -1,16 +1,12 @@
 ### Hi there 👋
 
 
-**MrShafqatNadeem/mrshafqatnadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-<img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Girl in a jacket" width="100" height="100">
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/ali-nazir-RNdev">
+    <a href="https://www.linkedin.com/in/mistershafqatnadeem">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
@@ -86,5 +82,6 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> with <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" /> by [Shafqat Nadeem] 
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="60" /> with <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="50" /> by [Shafqat Nadeem]
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="Girl in a jacket" width="100" height="100">
 </div>
