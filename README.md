@@ -4,15 +4,16 @@
 
 
 <div id="header" align="center">
+  
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/mistershafqatnadeem">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/mistershafqatnadeem">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+     </div>
   <img src="https://komarev.com/ghpvc/?username=MrShafqatNadeem&style=for-the-badge&color=blue" alt=""/>
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/> hi
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/> hi
   </h1>
   <br>
   <img src="[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75E24&center=true&vCenter=true&multiline=true&width=450&height=70&lines=%F0%9F%99%8F+Greetings++I+am+Shafqat+Nadeem+Flutter+Engineer.+;Welcome+to+My+Profile)](https://git.io/typing-svg)" />
