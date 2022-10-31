@@ -1,24 +1,18 @@
 ### Hi there 👋
 
-
-
-
-<div id="header" align="center">
-  
+<div id="header" align="center">  
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/mistershafqatnadeem">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-     </div>
+  <a href="https://www.linkedin.com/in/mistershafqatnadeem">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://shafqat.netlify.app">
+  <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=MrShafqatNadeem&style=for-the-badge&color=blue" alt=""/>
-  <h1>
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/> hi
-  </h1>
+<!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/> -->
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%99%8F+Greetings++I+am+Shafqat+Nadeem+Flutter+Engineer.+;Welcome+to+My+Profile" /><br/>
-
-  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%99%8F+Greetings++I+am+Shafqat+Nadeem+Flutter+Engineer.+;Welcome+to+My+Profile"/>    
+  
 </div>
 
 <h2> 👨‍💻 Know Me </h2>
