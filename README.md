@@ -247,7 +247,9 @@ Bike Fixing Service Provider Mobile App.<br>
   Social Mobile App.<br>
   • User Authentications.<br>
   • Realtime Chat.<br>
-  • Post (Text + Multimedia). • Like & Comment on post. • Friends List Management.<br>
+  • Post (Text + Multimedia).<br> 
+  • Like & Comment on post. <br>
+  • Friends List Management.<br>
 
 </div>
 
