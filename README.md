@@ -16,7 +16,7 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/> hi
   </h1>
   <br>
-  <img src="[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75E24&center=true&vCenter=true&multiline=true&width=450&height=70&lines=%F0%9F%99%8F+Greetings++I+am+Shafqat+Nadeem+Flutter+Engineer.+;Welcome+to+My+Profile)](https://git.io/typing-svg)" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%99%8F+Greetings++I+am+Shafqat+Nadeem+Flutter+Engineer.+;Welcome+to+My+Profile" /><br/>
 
   <br>
 </div>
