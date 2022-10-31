@@ -2,10 +2,10 @@
 
 <div id="header" align="center">  
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
-  <a href="https://www.linkedin.com/in/mistershafqatnadeem" target="_blank>
+  <a href="https://www.linkedin.com/in/mistershafqatnadeem" >
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://shafqat.netlify.app">
+  <a href="https://shafqat.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=MrShafqatNadeem&style=for-the-badge&color=blue" alt=""/>
