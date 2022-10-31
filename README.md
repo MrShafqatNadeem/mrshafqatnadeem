@@ -152,7 +152,7 @@ Bike Fixing Service Provider Mobile App.<br>
 • Firebase.<br>
 • Restful API.<br>
 
-<b>ABC Cash & Carry</>  <br>
+<b>ABC Cash & Carry</b>  <br>
   E-Commerce Mobile App. <br>
   • User Authentication. <br>
   • Products.<br>
