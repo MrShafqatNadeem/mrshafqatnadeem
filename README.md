@@ -126,7 +126,7 @@ Bike Fixing Service Provider Mobile App.<br>
 • Push Notifications.<br>
 • Play Store :https://play.google.com/store/apps/details?id=com.bikefixup.mobile<br>
 
-  <b>Emed Ghana Doctor & Patients</b<br>
+  <b>Emed Ghana Doctor & Patients</b><br>
   Doctor Patient Online Appointment Mobile App.<br>
 • User Authentications.<br>
 • Specialists (Doctors).<br>
@@ -138,8 +138,9 @@ Bike Fixing Service Provider Mobile App.<br>
 • Push Notifications.<br>
 • Medical Blogs.<br>
 • Restful API.<br>
-• Play Store :https://play.google.com/store/apps/details?id=com.emedgh.app https://play.google.com/store/apps/details?id=com.emedghanadoc <br>
-• App Store : https://apps.apple.com/pk/app/emed- ghana/id1636172632 <br>
+• Play Store : https://play.google.com/store/apps/details?id=com.emedgh.app <br>
+             : https://play.google.com/store/apps/details?id=com.emedghanadoc <br>
+• App Store : https://apps.apple.com/pk/app/emed-ghana/id1636172632 <br>
 
  <b>Spott-At App</b>    <br>
   Social Mobile App.<br>
