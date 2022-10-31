@@ -23,12 +23,12 @@
 
 <h2> 👨‍💻 Know Me </h2>
 
-- 🔭 I’m currently working on Mobile and Web Applications
+- 🔭 I’m currently working on Hybrod & Native Mobile Applications
 - 🌱 Learning Backend Development (Python - Node - Data Structures and Algorithms)
-- 💬 Interested in open source projects collaboration
+- 💬 Interested in open source projects collaboration & App Security.
 - 😄 Pronouns: He/Him
-- ⚡ Fav. Quote: Create your own reality ✨
-- 👯 I’m looking to collaborate on mobile application projects
+- ⚡  Motivated ✨
+- 👯 I’m looking to collaborate on fintech & block-chain technology mobile application projects
 - 💬 Ask me about Flutter
 - 📫 How to reach me: shafqatnadeem2@gmail.com
 - ⚡ Fun fact: The first computer “bug” was an actual real-life bug.
@@ -60,6 +60,197 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mrshafqatnadeem&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshafqatnadeem&layout=compact&theme=vision-friendly-dark" />
 </div>
+
+
+<h2> Worked on PROJECTS </h2>
+<br/>
+<div>
+
+<b>Imamia Jantri official</b>
+  <br>
+  Jantri Mobile App.<br>
+• User Authentications.<br>
+• Al-Quran (Holy Book) translation, Audio Recitation. <br>
+• Prayers Time schedule & Alarm.<br>
+• Duas (Prayers) & Books.<br>
+• Local Database.<br>
+• Events & Calendars.<br>
+• Multi-Language.<br>
+• Push Notifications.<br>
+• Articles & Blogs.<br>
+• Firebase.<br>
+• Restful API.<br>
+• Play Store : https://play.google.com/store/apps/details?id=com.iftikharbookdepot.imamia_jantri<br>
+• App Store : https://apps.apple.com/pk/app/imamia-jantri-official/id1441674194<br>
+
+<b>Virtual Shop Apps</b><br>
+E-Commerce (shop-keeper & buyer) Mobile App.<br>
+• User Authentications.<br>
+• Shop Managements.<br>
+• Inventory Management.<br>
+• Order Management.<br>
+• Push Notifications.<br>
+• -<br>
+• Shops, Products & Catalogues. <br>
+• Cart Management.<br>
+• Order Processing & Tracking.<br>
+• Payment Methods.<br>
+• Google Map.<br>
+• Product Comments.<br>
+• Offers & Discounts.<br>
+• Restful API + Firebase.<br>
+
+<b>Voon Express</b><br>
+Grocery Mobile App.<br>
+• User Authentications.<br>
+• Products & Catalogues.<br>
+• Cart Management.<br>
+• Order Processing & Tracking. <br>
+• Product Comments & reviews. <br>
+• Offers & Discounts.<br>
+• Push Notifications.<br>
+• Restful API.<br>
+• Play Store : https://play.google.com/store/apps/details?id=com.alliance.shopping_app<br>
+• App Store : Link Expired.<br>
+
+  <b>BikeFixup App</b><br>
+Bike Fixing Service Provider Mobile App.<br>
+• User Authentications.<br>
+• Bike Repairing Services. <br>
+• Google maps.<br>
+• Live Location Sharing.<br>
+• Order Management.<br>
+• Payment Methods.<br>
+• Restful API’s.<br>
+• Firebase.<br>
+• Push Notifications.<br>
+• Play Store :https://play.google.com/store/apps/details?id=com.bikefixup.mobile<br>
+
+  <b>Emed Ghana Doctor & Patients</b<br>
+  Doctor Patient Online Appointment Mobile App.<br>
+• User Authentications.<br>
+• Specialists (Doctors).<br>
+• Treatments & Diseases. <br>
+• Appointments.<br>
+• Video Meeting. (Agora). <br>
+• Realtime Chat.<br>
+• Payment methods.<br>
+• Push Notifications.<br>
+• Medical Blogs.<br>
+• Restful API.<br>
+• Play Store :https://play.google.com/store/apps/details?id=com.emedgh.app https://play.google.com/store/apps/details?id=com.emedghanadoc <br>
+• App Store : https://apps.apple.com/pk/app/emed- ghana/id1636172632 <br>
+
+ <b>Spott-At App</b>    <br>
+  Social Mobile App.<br>
+• User Authentications.<br>
+• Post & Story Management with Places. <br>
+• Like, Comment, Share & Spot.<br>
+• Places.<br>
+• Push Notifications.<br>
+• Firebase.<br>
+• Restful API.<br>
+
+<b>ABC Cash & Carry</>  <br>
+  E-Commerce Mobile App. <br>
+  • User Authentication. <br>
+  • Products.<br>
+  • Catalogues.<br>
+  • Cart Management. <br>
+  • Order Processing. <br>
+  • Payment Methods. <br>
+  • Material Design.<br>
+  • Restful API’s.<br>
+
+  <b>CMS - Management App</b><br>
+  Case Management Mobile App (Law Firm).<br>
+  • User Authentication (Admin, Advocates, Staff, Clients). <br>
+  • Case Management for Client/Advocate/Staff.<br>
+  • News.<br>
+  • Files.<br>
+  • Cases status (hearings, closed, opened).<br>
+  • Restful API’s.<br>
+
+  <b>DMS - Management App</b><br>
+  Document Management Mobile App. <br>
+  • User Authentications.<br>
+  • Departments & Categories.<br>
+  • Files & Folders.<br>
+  • Multi-Language. <br>
+  • Restful API’s.<br>
+  
+  <b>Donation Mobile App.</b><br>
+  • User Authentications.<br>
+  • Donation Page.<br>
+  • Donation List.
+  • Donation-Page Sharing. <br>
+  • Payment Methods.<br>
+  • Restful API’s.<br><br>
+  App Store : Test Flight mode<br>
+
+<b>Hasbati App</b><br>
+
+  Commission Calculator Mobile App.<br>
+  • User Authentications.<br>
+  • Commission Calculations.<br>
+  • Firebase.<br>
+  • In-App Purchases(Subscriptions) <br>
+  • Revenue-Cat<br>
+  App Store : Test Flight mode<br>
+  Play Store : https://play.google.com/store/apps/details?id=com.hasbati.app<br>
+
+  <b>Aber Driver</b><br>
+  Delivery Boy Mobile App.<br>
+  • User Authentications. <br>
+  • Google maps.<br>
+  • Live Location Sharing.<br>
+  • Order Management.<br>
+  • Payment Methods. <br>
+  • Restful API’s.<br>
+  • Firebase.<br>
+  • Push Notifications.<br>
+
+  <b>Cherry Random Video Chat</b><br>
+  Random Video Chat Mobile App.<br>
+  • User Authentications.<br>
+  • Realtime Chat.<br>
+  • Random Video chat Algorithm. <br>
+  • Agora.<br>
+  • Friends List Management.<br>
+  • Firebase & Restful API’s.<br>
+
+  <Irish Virtual DJ><br>
+  Admin, DJ, User - Mobile Apps.<br>
+  • User Authentications.<br>
+  • Admin CRUD operations.<br>
+  • DJ Check-in, Check-out.<br>
+  • Song/Music requests.<br>
+  • Firebase real-time database & Fire-Store. <br>
+  • Push Notifications.<br>
+  Play Store :  https://play.google.com/store/apps/dev?id=5374323931637311363 <br>
+  
+  <b>College meet App</b> <br>
+  Social Mobile App.<br>
+  • User Authentications.<br>
+  • Matching similar interests users.<br>
+  • Realtime Chat. <br>
+  • Multimedia Sharing.<br>
+  • Friends List Management.<br>
+  • In-App Purchases & razor Pay.<br>
+  • Firebase real-time database & Fire-Store. <br>
+  • Agora Video Chat.<br>
+  • Push Notifications.<br>
+  Play Store : removed<br>
+
+  <b>Talk at Cha App</b>
+  Social Mobile App.<br>
+  • User Authentications.<br>
+  • Realtime Chat.<br>
+  • Post (Text + Multimedia). • Like & Comment on post. • Friends List Management.<br>
+
+</div>
+
+
 
 <h2> 😆 Fun </h2>
 <br/>
