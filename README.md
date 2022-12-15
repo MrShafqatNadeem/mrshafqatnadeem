@@ -17,7 +17,7 @@
 
 <h2> 👨‍💻 Know Me </h2>
 
-- 🔭 I’m currently working on Hybrod & Native Mobile Applications
+- 🔭 I’m currently working on Hybrid & Native Mobile Applications
 - 🌱 Learning Backend Development (Python - Node - Data Structures and Algorithms)
 - 💬 Interested in open source projects collaboration & App Security.
 - 😄 Pronouns: He/Him
