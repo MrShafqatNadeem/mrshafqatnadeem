@@ -4,7 +4,7 @@
 <div id="header" align="center">  
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
   <br><br>
-  📍 **Dubai, UAE** | ✉️ **shafqatnadeem2@gmail.com** | 📞 **+92 341-734-1950**
+  📍 **Lahore, Pakistan** | ✉️ **shafqatnadeem2@gmail.com** | 📞 **+92 341-734-1950**
   <br><br>
   <a href="https://linkedin.com/in/mistershafqatnadeem" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -21,7 +21,7 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=MrShafqatNadeem&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Senior+Flutter+Engineer+%7C+6%2B+Years+Experience;30%2B+Apps+Deployed+%7C+Cross-Platform+Expert;Freelance+Consultant+%7C+Dubai+%26+Remote;Welcome+to+My+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Senior+Flutter+Engineer+%7C+6%2B+Years+Experience;30%2B+Apps+Deployed+%7C+Cross-Platform+Expert;Freelance+Consultant+%7C+Lahore-Pakistan+%26+Remote;Welcome+to+My+Profile!" />
 </div>
 
 ---
@@ -110,7 +110,7 @@
 ## 💼 Professional Experience
 
 ### Freelance Flutter Consultant
-**Freelance Insider | Dubai, UAE** | *01/2026 - Present*
+**Freelance Insider | Lahore, Pakistan** | *01/2026 - Present*
 - Architecting bespoke cross-platform apps for global clients, driving the full SDLC from concept to deployment
 - Re-engineering legacy codebases, eliminating bottlenecks and modernizing architecture for maximum maintainability
 
@@ -389,7 +389,7 @@
   
   📱 **Phone**: +92 341-734-1950
   
-  📍 **Location**: Dubai, UAE
+  📍 **Location**: Lahore, Pakistan
   
   <br>
   
