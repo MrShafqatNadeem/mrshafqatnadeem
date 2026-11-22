@@ -1,5 +1,5 @@
 # 🌟 Shafqat Nadeem
-### Senior Flutter Engineer | 6+ Yrs Exp | 30+ Deployed Apps
+### Senior Flutter Software Engineer | 7+ Yrs Exp | 20+ Mobile Apps Delivered
 
 <div id="header" align="center">  
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
@@ -21,7 +21,7 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=MrShafqatNadeem&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
   <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Senior+Flutter+Engineer+%7C+6%2B+Years+Experience;30%2B+Apps+Deployed+%7C+Cross-Platform+Expert;Freelance+Consultant+%7C+Lahore-Pakistan+%26+Remote;Welcome+to+My+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Senior+Flutter+Software+Engineer+%7C+7%2B+Years+Experience;20%2B+Mobile+Apps+Delivered+%7C+Cross-Platform+Expert;Available+for+Remote+Full-Time+%26+Contract+Roles;Welcome+to+My+Profile!" />
 </div>
 
 ---
@@ -36,17 +36,27 @@
 
 ## 💼 Professional Summary
 
-**Experienced Senior Flutter Engineer** with **6+ years** of hands-on expertise in Flutter, Dart, Android, iOS, and Web development. Proficient in Firebase, AWS, GCP, S3, CloudFront, Cloud Functions, REST APIs, and GraphQL APIs. Solid knowledge of Python, Node.js, MySQL, and ELK Stack (Elastic Search). Familiar with Robotic Process Automation (RPA) and Selenium.
+**Senior Flutter Software Engineer** with **7+ years** of experience building, scaling, and shipping cross-platform mobile applications. Delivered **20+ mobile applications**, including **WithU**, **BikeFixup**, and **Imamia Jantri**, each surpassing **100,000 downloads**.
 
-🚀 **Developed and deployed over 30 mobile applications**, helping businesses and startups scale successfully across fintech, healthcare, e-commerce, and social domains. Energetic and curiosity-driven developer writing top-quality clean code for high-paced businesses, with expertise in all aspects of the software development life cycle — from requirement analysis and design to development and production.
+🚀 Energetic and curiosity-driven developer writing top-quality clean code for high-paced businesses, with expertise in all aspects of the software development life cycle — from requirement analysis and design to development and production.
 
 💡 **Dedicated to constantly improving** tools and infrastructure to maximize productivity, minimize system downtime, and quickly respond to changing business needs. Strong background in CI/CD, CodeMagic, Agile development, and DevOps practices.
 
 🌐 **[View Full Portfolio](https://shafqat.netlify.app/)** • 📄 **[Download Resume](https://shafqat.netlify.app/Shafqat_Nadeem_Resume.pdf)**
 
+## 🏆 Highlights
+
+- 🏋️ **WithU:** Part of a 3-engineer team that rewrote and re-architected a media-heavy fitness app, leveraging AWS S3 and CloudFront for content delivery and CodeMagic for CI/CD.
+- 🏍️ **BikeFixup:** Built the APIs, Flutter application, and admin dashboard.
+- 📦 **Open Source:** Published a JazzCash payment gateway package on `pub.dev`.
+
+## 🌍 Availability
+
+Available for **remote full-time or contract roles**, with flexible hours for **US, UK, and EU** overlap.
+
 ## 👨‍💻 What I'm Currently Up To
 
-- 🔭 Working as a **Freelance Flutter Consultant** — architecting bespoke cross-platform apps for global clients
+- 🔭 **Senior Flutter Software Engineer** — available for remote full-time or contract roles
 - 🌱 Learning Backend Development (Python · Node · Data Structures and Algorithms)
 - 💬 Interested in open source collaboration & App Security
 - 👯 Looking to collaborate on **fintech & blockchain technology** mobile application projects
@@ -61,7 +71,7 @@
 <div align="center">
   
   ### 📂 **[Visit My Complete Portfolio](https://shafqat.netlify.app/)**
-  *Showcasing 30+ mobile applications across various domains*
+  *Showcasing 20+ mobile applications across various domains*
   
   ### 📄 **[Download My Resume](https://shafqat.netlify.app/Shafqat_Nadeem_Resume.pdf)**
   *Detailed CV with full work history and technical expertise*
@@ -91,18 +101,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
 </div>
 
-## 💼 Technical Skills
+## 💼 Core & Working Stack
 
-### Mobile Development
-- **Flutter** • **Dart** • **Android** • **iOS** • **Web Development**
+### Mobile & Cross-Platform
+- **Flutter** • **Dart** • **Android** • **iOS** • **Java**
 
-### Cloud & Backend Services
-- **Firebase** • **AWS** • **GCP** • **S3** • **CloudFront** • **Cloud Functions**
-- **REST APIs** • **GraphQL APIs** • **Node.js** • **MySQL**
+### Cloud, Backend & APIs
+- **Firebase** • **REST APIs** • **GraphQL APIs** • **AWS (S3, CloudFront)** • **GCP** • **CodeMagic CI/CD**
 
-### Automation & DevOps
-- **RPA** • **Selenium** • **Git** • **CI/CD** • **CodeMagic** • **Jenkins**
-- **Agile** • **SDLC** • **MVC** • **MVVM** • **Jira**
+### Additional Working Knowledge
+- **Python** • **Node.js** • **MySQL** • **ELK Stack (Elasticsearch, Logstash, Kibana)**
 
 ### Third-Party Integrations
 - **Google Maps** • **OneSignal** • **Google AdMob** • **Payment Gateways** • **Agora** • **RevenueCat**
@@ -113,12 +121,13 @@
 **Freelance Insider | Lahore, Pakistan** | *01/2026 - Present*
 - Architecting bespoke cross-platform apps for global clients, driving the full SDLC from concept to deployment
 - Re-engineering legacy codebases, eliminating bottlenecks and modernizing architecture for maximum maintainability
+- Published a **JazzCash payment gateway package** on `pub.dev`
 
 ### Flutter Software Engineer
 **WithU | London, UK (Remote)** | *02/2023 - 12/2025*
+- Part of a **3-engineer team** that rewrote and re-architected a media-heavy fitness app
+- Leveraged **AWS S3 and CloudFront** for content delivery and **CodeMagic** for CI/CD
 - Architected, designed, and implemented scalable, modular, and maintainable Flutter applications
-- Led technical decision-making, integrating third-party services for enhanced app performance
-- Conducted code reviews, technical discussions, and enforced best coding practices
 - Identified and resolved complex bugs, crashes, and performance bottlenecks across iOS, Android, and Web
 - Collaborated with designers, backend engineers, and product managers to translate requirements into high-quality applications
 
@@ -183,8 +192,9 @@
 
 ## 🏆 Achievements
 
-- ✅ **Deployed 30+ mobile apps** across fintech, healthcare, e-commerce, and social domains
-- ✅ **6+ years** of professional Flutter and mobile development experience
+- ✅ **Delivered 20+ mobile apps** across fintech, healthcare, e-commerce, and social domains — including apps with **100K+ downloads**
+- ✅ **7+ years** of professional Flutter and mobile development experience
+- ✅ **Published open-source JazzCash payment gateway package** on `pub.dev`
 - ✅ **Strong experience** in leading development teams, mentoring junior engineers, and project coordination
 - ✅ **Expertise** in full SDLC, software architecture, cloud computing, and DevOps practices
 - ✅ **Global client base** spanning UAE, UK, USA, Ghana, and Pakistan
@@ -234,7 +244,7 @@
 
 ---
 
-**[🔗 View All 30+ Projects on Portfolio](https://shafqat.netlify.app/#featured-products--apps)**
+**[🔗 View All 20+ Projects on Portfolio](https://shafqat.netlify.app/#featured-products--apps)**
 
 ## 📱 Additional Project Portfolio
 
@@ -423,5 +433,5 @@
   <br><br>
   <img src="https://github.githubassets.com/images/mona-whisper.gif" alt="GitHub Octocat" width="100" height="100">
   <br>
-  <i>Senior Flutter Engineer | 6+ Yrs Exp | 30+ Deployed Apps | Cross-Platform Expert</i>
+  <i>Senior Flutter Software Engineer | 7+ Yrs Exp | 20+ Mobile Apps Delivered | Cross-Platform Expert</i>
 </div>
